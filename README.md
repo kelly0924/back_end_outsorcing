@@ -1,5 +1,5 @@
 
-# 사진공유 프로그램_ 외주
+# 사진 공유 프로그램_ 외주
 
 ## 프로젝트 설명
 
@@ -38,6 +38,7 @@
 2.	 ERD를 사용한database 설계를 진행 하였고 PostgreSQL 사용하여 실제로 databases  구축 하였습니다. 
 
 **[ERD]**
+
 ![](https://velog.velcdn.com/images/kelly2017/post/e7d6ec5f-262d-4a89-994e-08e6c0253964/image.png)
 
 3.	프로젝트의 모든 기능에 대한 API 작성 및 JWT token을 사용하였습니다. 서버에선 access_token을 발급하여 프론트 엔드가 DB에 접근 요청을 보내면 access token verify 과정을 거치고 난 후 접근 할 수 있도록 하였습니다. 
