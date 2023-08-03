@@ -41,11 +41,15 @@
 
 ![](https://velog.velcdn.com/images/kelly2017/post/e7d6ec5f-262d-4a89-994e-08e6c0253964/image.png)
 
-3.	프로젝트의 모든 기능에 대한 API 작성 및 JWT token을 사용하였습니다. 서버에선 access_token을 발급하여 프론트 엔드가 DB에 접근 요청을 보내면 access token verify 과정을 거치고 난 후 접근 할 수 있도록 하였습니다. 
+3.	프로젝트의 모든 기능에 대한 API 작성 및 JWT token을 사용하였습니다. 서버에선 access_token을 발급하여 프론트 엔드가 DB에 접근 요청을 보내면 access token verify 과정을 거치고 난 후 접근 할 수 있도록 하였습니다.
+
+ **[이미지]**
 
 ![](https://velog.velcdn.com/images/kelly2017/post/52535bd7-fa28-487f-8a74-720805150069/image.png)
 
 4.	 프로젝트에 가장 중요한 부분인 이미지 업로드와 이미지 데이터 관리 입니다.  NodeMulter모듈을 사용하여 이미지 upload 진행 하였습니다. 데이터 관리를 위해 이미지 자체는 AWS S3에 저장 후 S3에 저장된 URL를 Databases에 저장 하여 데이터베이스의 크기와 성능 문제를 해결하고 이미지를 효율적으로 관리할 수있도록 하였습니다.
+
+ **[이미지]**
 
 ![](https://velog.velcdn.com/images/kelly2017/post/53b1224e-a078-4568-aedc-4ea6f30d136b/image.png)
 
