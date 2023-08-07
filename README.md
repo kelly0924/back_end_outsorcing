@@ -52,7 +52,7 @@
 
  **[이미지]**
 
-<img width="649" alt="스크린샷 2023-08-07 오후 5 26 51" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/ac3390dc-f94c-4902-aad0-99847e4b02af">
+   <img width="649" alt="스크린샷 2023-08-07 오후 5 26 51" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/ac3390dc-f94c-      4902-aad0-99847e4b02af">
 
 4. 회원가입시 사용자 인증을 위해 NODEMAILER를 사용하였습니다. 사용자는 회원가입을 하기위해 이메일 인증을 진행 하여야 합니다.
 
@@ -67,14 +67,16 @@
  
 [사용자가 업로드한 모든 사진 가져오기]
 
-<img width="613" alt="스크린샷 2023-08-07 오후 5 31 43" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/77b3f89e-24a2-42d4-9965-166ddfe79997">
+ <img width="613" alt="스크린샷 2023-08-07 오후 5 31 43" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/77b3f89e-24a2-42d4-9965-166ddfe79997">
 
 [사용자 사진과 설명 자세히 보기]
-<img width="497" alt="스크린샷 2023-08-07 오후 5 33 50" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/85055dda-e109-4387-bc79-112630c3ef37">
+
+   <img width="497" alt="스크린샷 2023-08-07 오후 5 33 50" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/85055dda-e109-4387-bc79-112630c3ef37">
 
 6. 사진의 대한 댓글과 대댓글 및 그외 다른 기능 구현 이미지 입니다.
    
  **[이미지]**
+ 
  <img width="1057" alt="스크린샷 2023-08-07 오후 5 37 57" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/c4ba2d75-c06f-4cfc-ba7a-f97d70002d9a">
 
 
