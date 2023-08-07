@@ -39,12 +39,12 @@
 
 **[사용자 ERD]**
 
-![사진공유 프로그램_사용자_ERD](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/d2056779-cdbd-4fa9-b0c1-d175414098b3)
+  ![사진공유 프로그램_사용자_ERD](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/d2056779-cdbd-4fa9-b0c1-d175414098b3)
 
 
 **[관리자 ERD]**
 
-![관리자](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/50cd2c56-839f-4127-b836-4b0cebdede1b)
+  ![관리자](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/50cd2c56-839f-4127-b836-4b0cebdede1b)
 
 
 
