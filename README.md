@@ -51,7 +51,6 @@
 3.	프로젝트의 모든 기능에 대한 API 작성 및 JWT token을 사용하였습니다. 서버에선 access_token을 발급하여 프론트 엔드가 DB에 접근 요청을 보내면 access token verify 과정을 거치고 난 후 접근 할 수 있도록 하였습니다.
 
  **[이미지]**
-![Uploading 외주_사용자_ERD.svg…]()
 
 ![](https://velog.velcdn.com/images/kelly2017/post/52535bd7-fa28-487f-8a74-720805150069/image.png)
 
