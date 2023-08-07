@@ -38,10 +38,11 @@
 2.	 ERD를 사용한database 설계를 진행 하였고 PostgreSQL 사용하여 실제로 databases  구축 하였습니다. 
 
 **[사용자 ERD]**
-![외주_사용자_ERD](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/9ac46bdc-596c-4e9d-a335-bb420cf5ab05)
+![사용자](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/147ca2be-7926-4cc2-8117-bd5d9e336737)
+
 
 **[관리자 ERD]**
-![외주_관리자_ERD](https://github.com/kelly0924/back_end_outsorcing/assets/55969676/659e468e-7a00-45d5-a803-4b7856a9fa33)
+
 
 
 3.	프로젝트의 모든 기능에 대한 API 작성 및 JWT token을 사용하였습니다. 서버에선 access_token을 발급하여 프론트 엔드가 DB에 접근 요청을 보내면 access token verify 과정을 거치고 난 후 접근 할 수 있도록 하였습니다.
