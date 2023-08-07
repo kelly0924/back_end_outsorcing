@@ -51,8 +51,8 @@
 3.	프로젝트의 모든 기능에 대한 API 작성 및 JWT token을 사용하였습니다. 서버에선 access_token을 발급하여 프론트 엔드가 DB에 접근 요청을 보내면 access token verify 과정을 거치고 난 후 접근 할 수 있도록 하였습니다.
 
  **[이미지]**
+    <img width="649" alt="스크린샷 2023-08-07 오후 5 26 51" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/185145e2-1c9c-4b7b-8722-2bcd8560420d">
 
-   <img width="649" alt="스크린샷 2023-08-07 오후 5 26 51" src="https://github.com/kelly0924/back_end_outsorcing/assets/55969676/ac3390dc-f94c-      4902-aad0-99847e4b02af">
 
 4. 회원가입시 사용자 인증을 위해 NODEMAILER를 사용하였습니다. 사용자는 회원가입을 하기위해 이메일 인증을 진행 하여야 합니다.
 
