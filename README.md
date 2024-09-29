@@ -1,3 +1,4 @@
+<img width="852" alt="스크린샷 2024-09-29 오후 2 33 27" src="https://github.com/user-attachments/assets/f02eb152-6483-4ea1-9eb4-94d8b7a42395">
 
 # 사진 공유 프로그램_ 외주
 
